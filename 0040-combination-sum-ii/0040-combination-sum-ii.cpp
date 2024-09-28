@@ -20,7 +20,7 @@ public:
                                             int target) {
             int n = candidates.size();
             sort(candidates.begin(), candidates.end());
-            vector<vector<int>> dp(1000, vector<int>(1000 + 1));
+           // vector<vector<int>> dp(1000, vector<int>(1000 + 1));
             vector<int> ds;
             vector<vector<int>> temp;
             combination2(temp,ds,candidates,target,0);
