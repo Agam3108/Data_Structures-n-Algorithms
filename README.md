@@ -51,10 +51,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -73,4 +75,12 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
