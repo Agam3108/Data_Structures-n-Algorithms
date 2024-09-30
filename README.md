@@ -94,5 +94,6 @@
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0577-employee-bonus) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
