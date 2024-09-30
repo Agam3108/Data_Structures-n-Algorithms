@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
