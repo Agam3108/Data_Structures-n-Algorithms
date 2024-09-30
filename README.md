@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
