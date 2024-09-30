@@ -9,6 +9,7 @@
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
