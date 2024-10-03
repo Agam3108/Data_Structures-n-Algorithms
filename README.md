@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0051-n-queens) |
@@ -72,6 +73,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0051-n-queens) |
@@ -87,6 +89,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
