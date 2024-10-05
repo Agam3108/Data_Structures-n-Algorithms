@@ -28,6 +28,7 @@
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Rolling Hash
 |  |
@@ -94,6 +96,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
