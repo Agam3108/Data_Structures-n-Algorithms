@@ -31,6 +31,7 @@
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
@@ -45,12 +46,14 @@
 | ------- |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Rolling Hash
 |  |
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Database
 |  |
