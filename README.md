@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
+| [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -124,6 +125,7 @@
 | [0155-min-stack](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -152,4 +154,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
