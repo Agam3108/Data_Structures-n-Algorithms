@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
