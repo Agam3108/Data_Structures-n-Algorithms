@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -245,4 +246,8 @@
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
