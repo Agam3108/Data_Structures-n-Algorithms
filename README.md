@@ -55,6 +55,7 @@
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
@@ -104,6 +105,7 @@
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0165-compare-version-numbers) |
+| [0443-string-compression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1923-sentence-similarity-iii) |
