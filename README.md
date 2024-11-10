@@ -35,6 +35,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3394-minimum-array-end) |
 ## Enumeration
 |  |
