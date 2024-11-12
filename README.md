@@ -279,6 +279,7 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -286,6 +287,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -293,6 +295,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
