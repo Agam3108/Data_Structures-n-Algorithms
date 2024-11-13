@@ -141,6 +141,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
 ## Design
@@ -211,6 +212,7 @@
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -305,6 +308,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -317,6 +321,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
