@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -318,6 +320,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -354,9 +357,11 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 ## Monotonic Queue
 |  |
