@@ -18,6 +18,7 @@
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Simulation
 |  |
@@ -268,6 +271,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -275,6 +279,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Bit Manipulation
@@ -335,6 +340,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
@@ -352,4 +358,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
