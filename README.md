@@ -77,6 +77,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1923-sentence-similarity-iii) |
@@ -129,6 +130,7 @@
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1972-rotating-the-box) |
@@ -147,6 +149,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
