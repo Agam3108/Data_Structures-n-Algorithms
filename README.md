@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -234,6 +235,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
@@ -324,6 +326,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -349,6 +352,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
@@ -396,6 +400,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -403,4 +408,8 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
