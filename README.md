@@ -35,6 +35,7 @@
 | [1972-rotating-the-box](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2089-maximum-matrix-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -101,6 +102,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -204,6 +206,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -310,6 +313,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
@@ -399,6 +403,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
