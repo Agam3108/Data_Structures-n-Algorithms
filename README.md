@@ -17,6 +17,7 @@
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -211,6 +212,7 @@
 | [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -223,6 +225,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
