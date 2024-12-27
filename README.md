@@ -13,6 +13,7 @@
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -80,6 +81,7 @@
 | [0038-count-and-say](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
@@ -227,6 +229,7 @@
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
@@ -252,6 +255,7 @@
 | [0013-roman-to-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -446,6 +450,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -525,6 +530,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
