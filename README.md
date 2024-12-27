@@ -26,6 +26,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -231,6 +232,7 @@
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+| [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
