@@ -108,6 +108,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -159,6 +160,7 @@
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2089-maximum-matrix-sum) |
@@ -291,6 +293,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
