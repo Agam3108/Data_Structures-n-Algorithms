@@ -13,6 +13,7 @@
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
@@ -428,6 +429,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0136-single-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
