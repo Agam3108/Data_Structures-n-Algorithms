@@ -78,6 +78,7 @@
 | [3427-special-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
