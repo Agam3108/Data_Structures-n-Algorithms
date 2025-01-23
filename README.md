@@ -493,6 +493,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -541,6 +542,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -608,6 +610,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Memoization
@@ -628,4 +631,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
