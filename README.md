@@ -500,6 +500,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -551,6 +552,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -620,6 +622,7 @@
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Memoization
@@ -640,6 +643,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 ## Union Find
 |  |
 | ------- |
