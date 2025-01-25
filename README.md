@@ -76,6 +76,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2868-continuous-subarrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3427-special-array-ii) |
@@ -163,6 +164,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Greedy
 |  |
@@ -649,4 +651,5 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
