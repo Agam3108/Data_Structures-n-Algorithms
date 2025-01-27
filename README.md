@@ -505,6 +505,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -557,6 +558,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -626,6 +628,7 @@
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1558-course-schedule-iv) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Memoization
 |  |
@@ -646,6 +649,7 @@
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1558-course-schedule-iv) |
 ## Union Find
 |  |
 | ------- |
