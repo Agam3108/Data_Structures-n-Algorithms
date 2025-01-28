@@ -72,6 +72,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -385,6 +386,7 @@
 | [2145-grid-game](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
 |  |
@@ -511,6 +513,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -562,6 +565,7 @@
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search
@@ -655,5 +659,6 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
