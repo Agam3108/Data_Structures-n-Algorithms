@@ -32,6 +32,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1242-matrix-block-sum) |
@@ -101,6 +102,7 @@
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -164,6 +166,7 @@
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
@@ -448,6 +451,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -622,6 +626,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -649,6 +654,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 ## Ordered Set
 |  |
 | ------- |
@@ -696,4 +702,8 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
