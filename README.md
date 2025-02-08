@@ -82,6 +82,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2868-continuous-subarrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -175,6 +176,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Greedy
 |  |
@@ -483,6 +485,7 @@
 | [2509-minimize-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3394-minimum-array-end) |
 ## Enumeration
