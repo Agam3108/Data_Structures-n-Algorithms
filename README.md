@@ -64,6 +64,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
@@ -172,6 +173,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -340,6 +342,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -465,6 +468,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
