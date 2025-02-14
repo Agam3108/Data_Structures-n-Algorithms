@@ -131,6 +131,7 @@
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
@@ -303,6 +304,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
