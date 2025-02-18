@@ -36,6 +36,7 @@
 | [0952-word-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1242-matrix-block-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1242-matrix-block-sum) |
@@ -640,6 +641,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
