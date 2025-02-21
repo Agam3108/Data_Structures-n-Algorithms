@@ -125,6 +125,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -316,6 +317,7 @@
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
