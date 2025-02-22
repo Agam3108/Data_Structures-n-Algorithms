@@ -113,6 +113,7 @@
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [2032-largest-odd-number-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -159,6 +160,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2107-find-unique-binary-string) |
@@ -216,6 +218,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
+| [2032-largest-odd-number-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
