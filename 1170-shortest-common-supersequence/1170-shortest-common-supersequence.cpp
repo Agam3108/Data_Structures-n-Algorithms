@@ -17,27 +17,39 @@ string LCS(string str1,string str2,int m,int n){
      string s = "";
      while(i>0 && j>0){
         if(str1[i-1]==str2[j-1]){
-            s.push_back(str1[i-1]);
+            s += str1[i-1];
             i--;
             j--;
         }
         else{
-            if(dp[i][j-1] > dp[i-1][j])
-            j--;
-            else
+            if(dp[i][j-1] > dp[i-1][j]){
+         
+            s += str2[j-1];
+               j--;
+            }
+            else{
+             s += str1[i-1];
             i--;
+          
+            }
         }
      }
-      reverse(s.begin(),s.end());
+      while(i>0){
+        s+=str1[i-1];
+        i--;
+    }
+    while(j>0){
+    s+=str2[j-1];
+    j--;
+    }
+     // reverse(s.begin(),s.end());
      return s;
 }
     string shortestCommonSupersequence(string str1, string str2) {
         int m = str1.length();
         int n = str2.length();
         string lcs = LCS(str1,str2,m,n);
-        string sup = str1+str2;
-        int ind = sup.find(lcs);
-        sup.erase(ind,lcs.size());
-        return sup ;
+       reverse(lcs.begin(),lcs.end());
+        return lcs ;
     }
 };
