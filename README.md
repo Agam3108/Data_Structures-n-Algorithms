@@ -72,6 +72,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
@@ -261,6 +262,7 @@
 | [1972-rotating-the-box](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2551-apply-operations-to-an-array) |
@@ -497,6 +499,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
