@@ -297,6 +297,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
@@ -369,6 +370,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
