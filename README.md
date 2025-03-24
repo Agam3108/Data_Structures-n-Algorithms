@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
@@ -146,6 +147,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
@@ -335,6 +337,7 @@
 | [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
@@ -486,6 +489,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -694,6 +698,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
