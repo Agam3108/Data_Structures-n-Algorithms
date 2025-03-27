@@ -126,6 +126,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
@@ -387,6 +388,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
@@ -590,6 +592,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0231-power-of-two) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
