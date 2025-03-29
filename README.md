@@ -23,6 +23,7 @@
 | [0152-maximum-product-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
@@ -607,6 +609,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Tree
@@ -752,6 +755,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
