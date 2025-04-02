@@ -167,6 +167,7 @@
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
+| [0884-k-similar-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0884-k-similar-strings) |
 | [0952-word-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -660,6 +661,7 @@
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0854-making-a-large-island) |
+| [0884-k-similar-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0884-k-similar-strings) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
