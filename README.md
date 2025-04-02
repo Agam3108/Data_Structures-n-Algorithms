@@ -129,6 +129,7 @@
 | [0060-permutation-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0263-ugly-number) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
