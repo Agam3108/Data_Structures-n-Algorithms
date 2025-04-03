@@ -108,6 +108,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2868-continuous-subarrays) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
