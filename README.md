@@ -72,6 +72,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2107-find-unique-binary-string) |
@@ -136,6 +137,7 @@
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
@@ -356,6 +358,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -607,6 +610,7 @@
 | [0231-power-of-two](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0231-power-of-two) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -620,6 +624,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Tree
@@ -859,4 +864,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
