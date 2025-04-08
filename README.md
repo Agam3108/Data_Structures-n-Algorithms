@@ -121,6 +121,7 @@
 | [3429-special-array-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -453,6 +454,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Doubly-Linked List
 |  |
 | ------- |
