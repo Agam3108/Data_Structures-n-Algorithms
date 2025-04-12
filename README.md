@@ -182,6 +182,7 @@
 | [0884-k-similar-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0884-k-similar-strings) |
 | [0952-word-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1170-shortest-common-supersequence) |
@@ -485,6 +486,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
