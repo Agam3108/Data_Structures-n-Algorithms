@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
@@ -260,6 +261,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0087-scramble-string) |
