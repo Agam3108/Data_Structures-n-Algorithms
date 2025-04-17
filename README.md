@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
