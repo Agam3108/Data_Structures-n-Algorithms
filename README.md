@@ -31,6 +31,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -240,6 +241,7 @@
 | [0056-merge-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
@@ -269,6 +271,7 @@
 | [0135-candy](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -402,6 +405,7 @@
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
