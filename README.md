@@ -188,6 +188,7 @@
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0443-string-compression) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -716,6 +718,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -740,6 +743,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -778,6 +782,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -810,6 +815,7 @@
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
