@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -315,6 +317,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0443-string-compression) |
