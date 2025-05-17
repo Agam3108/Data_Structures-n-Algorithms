@@ -725,6 +725,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -790,6 +791,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -891,6 +893,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
