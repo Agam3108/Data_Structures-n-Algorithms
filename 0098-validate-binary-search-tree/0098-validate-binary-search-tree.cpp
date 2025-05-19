@@ -11,31 +11,14 @@
  */
 class Solution {
 public:
+bool ValidateBST(TreeNode* root,long long l,long long u){
+    if(!root)
+    return true;
+    if(root->val >= u || root->val <= l )
+    return false;
+    return ValidateBST(root->left,l,root->val) && ValidateBST(root->right,root->val,u);
+}
     bool isValidBST(TreeNode* root) {
-        bool flag = false;
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* fr = q.front();
-            q.pop();
-            if(!fr)
-            continue;
-            TreeNode* node;
-            node = fr->left;
-            while(node){
-            if( node->val >= fr->val)
-            return false;
-            node = node->right;
-            }
-            node = fr->right;
-            while(node){
-            if( node->val <= fr->val)
-            return false;
-            node = node->left;
-            }
-           q.push(fr->left);
-            q.push(fr->right);
-        }
-        return true;
+      return ValidateBST(root,LLONG_MIN,LLONG_MAX);
     }
 };
