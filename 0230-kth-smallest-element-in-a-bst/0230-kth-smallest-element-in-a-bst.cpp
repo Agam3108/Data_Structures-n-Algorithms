@@ -11,23 +11,25 @@
  */
 class Solution {
 public:
-  vector<int> ans;
-    void dfs(TreeNode* node){
-        if(!node)
-            return;
-        dfs(node->left);
-        ans.push_back(node->val);
-        dfs(node->right);        
-    }
-    vector<int> inorderTraversal(TreeNode* root) {
-        dfs(root);
-        return ans;
-    }
     int kthSmallest(TreeNode* root, int k) {
-        if(!root)
-        return 0;
-       vector<int> in = inorderTraversal(root);
-       return in[k-1];
+        priority_queue<int, vector<int>, greater<int>> pq;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode* curr = q.front();
+            q.pop();
+            pq.push(curr->val);
+            if(curr->left)
+            q.push(curr->left);
+            if(curr->right)
+            q.push(curr->right);
+        }
+        
+        while(--k){
+            auto it = pq.top();
+            pq.pop();
 
+        }
+        return pq.top();
     }
 };
