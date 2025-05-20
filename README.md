@@ -142,6 +142,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -688,6 +689,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3427-special-array-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
