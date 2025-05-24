@@ -132,6 +132,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3194-find-words-containing-character](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -247,6 +248,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
