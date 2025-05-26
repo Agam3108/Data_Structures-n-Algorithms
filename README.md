@@ -193,6 +193,7 @@
 | [0072-edit-distance](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -480,6 +481,7 @@
 | [0037-sudoku-solver](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -774,6 +776,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0127-word-ladder](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
