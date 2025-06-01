@@ -178,6 +178,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2998-count-symmetric-integers) |
+| [3199-distribute-candies-among-children-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3199-distribute-candies-among-children-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -738,6 +739,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2998-count-symmetric-integers) |
+| [3199-distribute-candies-among-children-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3199-distribute-candies-among-children-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
@@ -1013,6 +1015,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3199-distribute-candies-among-children-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3199-distribute-candies-among-children-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
