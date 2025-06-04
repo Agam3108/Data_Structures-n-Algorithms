@@ -677,6 +677,7 @@
 | [0621-task-scheduler](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0744-network-delay-time](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1127-last-stone-weight) |
@@ -797,6 +798,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0854-making-a-large-island) |
@@ -873,6 +875,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0854-making-a-large-island) |
@@ -972,6 +975,7 @@
 | [0207-course-schedule](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -992,6 +996,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
