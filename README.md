@@ -264,6 +264,7 @@
 | [3447-clear-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -742,6 +744,7 @@
 | [2998-count-symmetric-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
