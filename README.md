@@ -69,6 +69,7 @@
 | [1364-tuple-with-same-product](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -808,6 +809,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1558-course-schedule-iv) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -979,6 +981,7 @@
 | [0744-network-delay-time](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
