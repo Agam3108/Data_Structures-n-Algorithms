@@ -218,6 +218,7 @@
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
 | [0884-k-similar-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0884-k-similar-strings) |
@@ -381,6 +382,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
