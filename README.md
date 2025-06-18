@@ -141,6 +141,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3194-find-words-containing-character](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3321-type-of-triangle) |
@@ -298,6 +299,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3321-type-of-triangle) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -334,6 +336,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
