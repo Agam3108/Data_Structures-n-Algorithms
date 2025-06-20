@@ -234,6 +234,7 @@
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -384,6 +386,7 @@
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -392,6 +395,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |
