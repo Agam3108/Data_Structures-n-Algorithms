@@ -269,6 +269,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -306,6 +307,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Greedy
 |  |
@@ -341,6 +343,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
@@ -554,6 +557,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -613,6 +617,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
