@@ -43,6 +43,7 @@
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
@@ -296,6 +297,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
@@ -534,6 +536,7 @@
 | [0496-next-greater-element-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0768-partition-labels) |
@@ -625,6 +628,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1364-tuple-with-same-product) |
@@ -673,6 +677,7 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
