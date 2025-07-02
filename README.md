@@ -283,6 +283,7 @@
 | [3447-clear-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -509,6 +510,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -768,6 +770,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3427-special-array-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
