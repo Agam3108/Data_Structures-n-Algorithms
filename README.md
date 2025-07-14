@@ -181,6 +181,7 @@
 | [0797-rabbits-in-forest](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -435,6 +436,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
