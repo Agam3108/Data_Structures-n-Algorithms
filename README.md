@@ -69,6 +69,7 @@
 | [1242-matrix-block-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -246,6 +247,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1508-longest-happy-prefix) |
@@ -932,6 +934,7 @@
 | [0014-longest-common-prefix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
@@ -958,6 +961,7 @@
 | [0854-making-a-large-island](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1475-maximum-sum-bst-in-binary-tree) |
