@@ -87,6 +87,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1813-maximum-erasure-value](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -574,6 +575,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1813-maximum-erasure-value](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -704,6 +706,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1813-maximum-erasure-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2868-continuous-subarrays) |
