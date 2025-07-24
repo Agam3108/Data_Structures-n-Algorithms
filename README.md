@@ -34,6 +34,7 @@
 | [0198-house-robber](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0417-pacific-atlantic-water-flow) |
@@ -551,6 +552,7 @@
 | [0127-word-ladder](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0432-all-oone-data-structure](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -703,6 +705,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
