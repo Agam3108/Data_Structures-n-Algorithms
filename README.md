@@ -54,6 +54,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0854-making-a-large-island) |
@@ -353,6 +354,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -516,6 +518,7 @@
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
