@@ -70,6 +70,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1127-last-stone-weight) |
+| [1129-longest-string-chain](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1242-matrix-block-sum) |
@@ -250,6 +251,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1197-parsing-a-boolean-expression) |
@@ -320,6 +322,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+| [1129-longest-string-chain](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -399,6 +402,7 @@
 | [0647-palindromic-substrings](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0768-partition-labels) |
+| [1129-longest-string-chain](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -523,6 +527,7 @@
 | [0923-super-egg-drop](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1063-best-sightseeing-pair) |
+| [1129-longest-string-chain](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -580,6 +585,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/0952-word-subsets) |
+| [1129-longest-string-chain](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1256-rank-transform-of-an-array) |
