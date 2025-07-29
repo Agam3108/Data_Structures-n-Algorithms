@@ -130,6 +130,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2554-minimum-total-distance-traveled) |
@@ -733,6 +734,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1813-maximum-erasure-value) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2868-continuous-subarrays) |
@@ -834,6 +836,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
@@ -1025,6 +1028,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2280-count-good-triplets-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Agam3108/Data_Structures-n-Algorithms/tree/master/2665-minimum-time-to-repair-cars) |
